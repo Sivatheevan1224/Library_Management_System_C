@@ -1,0 +1,29 @@
+
+BOOK_DETAILS
+
+Book:"Electrical_Engineering:_Principles_and_Applications"
+Author:"A.R._Hambley"
+Copies:05
+
+Book:"Principles_of_Electrical_Engineering_and_Electronics"
+Author:"V.K._Mehta"
+Copies:08
+
+Book:"The_Art_ of_Electronics,2nd_Edition_or_Laterst"
+Author:"Horowitz,P_and_Hill"
+Copies:06
+
+Book:"Computer Science:_An_Overview,_9th_Edition_or_Latest,_Business_and_Economics"
+Author:"Brookshear"
+Copies:10
+
+Book:"Introduction_to_Computers._7th_Ed._McGraw-Hill_Education"
+Author:"Norton,_P"
+Copies:03
+
+
+
+
+Book:Head_First_c
+Author:Davide
+Copies:7
