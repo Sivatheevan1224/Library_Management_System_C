@@ -62,8 +62,8 @@ Copies: 05
 
 ### Sample Member Entry
 ```
-Name: S.Makinthan
-Student_ID: 087
+Name: A.Sivatheevan
+Student_ID: 083
 ```
 
 ## Functions
@@ -117,4 +117,5 @@ University Assignment - Library Management System
 ## License
 
 This project is for educational purposes as part of university coursework.
+
 
